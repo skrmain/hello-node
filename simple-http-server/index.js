@@ -48,3 +48,11 @@ http
 // );
 
 // console.log(parsedUrl);
+
+// REST-API
+// Resource - user
+// POST: /users - create
+// GET: /users - get all users
+// GET: /users/1 - get user detail with id=1
+// PATCH: /users/1 - to update user detail with id=1
+// DELETE: /users/1 - to delete user with id=1
